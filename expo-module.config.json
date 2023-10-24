@@ -1,0 +1,9 @@
+{
+  "platforms": ["android"],
+  "ios": {
+    "modules": ["ExpoNsdModule"]
+  },
+  "android": {
+    "modules": ["expo.modules.nsd.ExpoNsdModule"]
+  }
+}
